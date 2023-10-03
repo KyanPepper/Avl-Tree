@@ -1,9 +1,23 @@
-# Pa3-Resubmit
-## Programer Kyan Kotschevar-Smead,
+# Cancer Rate Analysis with Self-Balancing AVL Trees
 
-This project takes csv files of unordered cancer rates and inserts them into self balancing AVL trees. PA3 emphasis maintaining 
-optimal complexity O(logn) for in-order insertion becuase sorting algorithoms are expensive.
+## Author: Kyan Kotschevar-Smead
+
+### Project Overview
+
+This project is dedicated to the efficient analysis of cancer rate data using self-balancing AVL (Adelson-Velsky and Landis) trees. The primary objective in PA3 is to achieve an optimal time complexity of O(logn) for in-order insertion. This is a critical focus, as conventional sorting algorithms can be computationally expensive, particularly with large, unordered datasets.
+
+### Key Features
+- Efficient insertion of cancer rate data into self-balancing AVL trees.
+- Maintains optimal time complexity (O(logn)) for in-order insertion.
+- Handles unordered datasets for seamless data analysis.
+
+This project offers a practical solution for efficiently managing and analyzing disordered cancer rate data, ensuring that even with substantial datasets, the time complexity remains low.
+
+### How to Run
+
+1. Open the project in Visual Studio.
+2. Configure the project settings as needed.
+3. Build and run the project.
 
 
-Run in Visual Studio
-or clone in IDE of choice
+
